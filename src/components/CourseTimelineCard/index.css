@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.courseContainer {
+  display: flex;
+  flex-direction: column;
+}
+.title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.tags {
+  background-color: lightslategray;
+  border: none;
+  padding: 5px;
+}
